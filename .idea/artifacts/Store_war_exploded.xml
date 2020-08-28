@@ -8,6 +8,8 @@
           <element id="module-output" name="Workshop-1-StoreDemo.main" />
           <element id="jpa-descriptors" facet="Workshop-1-StoreDemo.main/jpa/JPA" />
           <element id="jpa-descriptors" facet="Workshop-1-StoreDemo/jpa/JPA" />
+          <element id="module-output" name="Workshop-1-StoreDemo_main" />
+          <element id="jpa-descriptors" facet="Workshop-1-StoreDemo_main/jpa/JPA" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:5.2.8.RELEASE" />
@@ -45,9 +47,10 @@
           <element id="library" level="project" name="Gradle: org.jvnet.staxex:stax-ex:1.8" />
           <element id="library" level="project" name="Gradle: com.sun.xml.fastinfoset:FastInfoset:1.2.15" />
           <element id="library" level="project" name="ojdbc6" />
+          <element id="library" level="project" name="Gradle: org.postgresql:postgresql:42.2.14" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="Workshop-1-StoreDemo.main/web/Web Gradle : Workshop-1-StoreDemo-1.0-SNAPSHOT.war" />
+      <element id="javaee-facet-resources" facet="Workshop-1-StoreDemo_main/web/Web Gradle : Workshop-1-StoreDemo-1.0-SNAPSHOT.war" />
     </root>
   </artifact>
 </component>
