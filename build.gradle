@@ -11,6 +11,9 @@ repositories {
 }
 
 dependencies {
+    implementation 'javax.servlet:jstl:1.2'
     implementation 'org.springframework:spring-webmvc:5.2.8.RELEASE'
+    implementation 'org.projectlombok:lombok:1.18.12'
+    annotationProcessor 'org.projectlombok:lombok:1.18.12'
     testImplementation 'junit:junit:4.12'
 }
